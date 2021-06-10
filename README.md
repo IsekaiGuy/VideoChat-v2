@@ -10,7 +10,7 @@
 
 ## About Project
 <p>
-Realtor company main page built using CSS grid.
+Online app for video calls.
 </p>
 
 ## Getting Started
